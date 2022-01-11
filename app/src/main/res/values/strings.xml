@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TicTacToeApplication</string>
+
+    <string-array name = "playerOptions">
+    <item> Player X </item>
+    <item> Player O </item>
+    </string-array>
+
+    <string-array name="rowOptions">
+        <item> 1 </item>>
+        <item> 2 </item>>
+        <item> 3 </item>>
+    </string-array>
+
+    <string-array name="colOptions">
+        <item> 1 </item>>
+        <item> 2 </item>>
+        <item> 3 </item>>
+    </string-array>
+
+</resources>
